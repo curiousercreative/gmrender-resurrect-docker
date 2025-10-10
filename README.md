@@ -30,7 +30,7 @@ NAME|DESCRIPTION
 FRIENDLY_NAME|Player friendly name
 UUID|Specify the UUID of the player
 GSTOUT_AUDIOSINK|Known values are `alsa`, `alsasink`, `pulse`, `pulsesink`, defaults to `alsa`
-GSTOUT_AUDIODEVICE|Specified the audio device. Recommended to user `CARD_NAME` (or `CARD_INDEX`) instead if you are using `alsa` or `alsasinc`
+GSTOUT_AUDIODEVICE|Specified the audio device. Recommended to use `CARD_NAME` (or `CARD_INDEX`) instead if you are using `alsa` or `alsasinc`
 GSTOUT_AUDIOPIPE|Specify the argument for `--gstout-audiopipe`, alternative to `GSTOUT_AUDIOSINK`
 GSTOUT_INITIAL_VOLUME_DB|Initial attenuation, in db, example `-10`
 NETWORK_INTERFACE|Specify the network interface used by UPnP
